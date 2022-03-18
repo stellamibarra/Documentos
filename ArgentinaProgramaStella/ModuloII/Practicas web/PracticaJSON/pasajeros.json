@@ -1,0 +1,45 @@
+[
+    {
+        "nombre": "Laura",
+        "apellido": "Rodriguez",
+        "edad": 24,
+        "precioAsiento": 2000,
+        "pagado": true,
+        "asiento": {
+            "numero": 13,
+            "letra": "F",
+            "cargador": false
+        },
+        "historial": [
+            {
+                "salida": "Buenos Aires",
+                "destino": "Jujuy",
+                "fecha": "10/10/2022"
+            },
+            {
+                "salida": "Tandil",
+                "destino": "Cataratas",
+                "fecha": "12/07/2022"
+            }
+        ]
+    },
+    {
+        "nombre": "Juan",
+        "apellido": "Solis",
+        "edad": 26,
+        "precioAsiento": 2500,
+        "pagado": true,
+        "asiento": {
+            "numero": 16,
+            "letra": "G",
+            "cargador": false
+        },
+        "historial": [
+            {
+                "salida": "Mar del Plata",
+                "destino": "Formosa",
+                "fecha": "15/08/2022"
+            }
+        ]
+    }
+]
